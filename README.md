@@ -20,70 +20,60 @@
 ## 🧠 About Me
 
 * 🎓 B.Tech in Data Science
-* 💡 Passionate about building AI systems for real-world problems
-* 🤖 Developed LLM-based chatbot for legal assistance
-* 📊 Strong in Python, SQL, Machine Learning & Power BI
-* 🚀 Focused on deploying scalable ML solutions
+* 💡 Passionate about AI, ML & real-world problem solving
+* 🤖 Built AI Chatbot using NLP & LLM
+* 📊 Strong in Python, SQL, Power BI
+* 🚀 Deployed ML apps using Streamlit
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Sriram943-collab/genai-career-chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sriram943-collab&repo=genai-career-chatbot&theme=tokyonight" />
-  </a>
+### 🚚 Swiggy Delivery Time Prediction
 
-  <a href="https://github.com/Sriram943-collab/Swiggy-Delivery-Time-Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sriram943-collab&repo=Swiggy-Delivery-Time-Prediction&theme=tokyonight" />
-  </a>
-</p>
+* ML Models: Random Forest, XGBoost
+* Achieved R² = 0.76
+* Deployed using Streamlit
 
-<p align="center">
-  <a href="https://github.com/Sriram943-collab/SQL-ENERGY-CONSUMPTION-PROJECT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sriram943-collab&repo=SQL-ENERGY-CONSUMPTION-PROJECT&theme=tokyonight" />
-  </a>
+### ⚖️ AI Legal Chatbot (LLM)
 
-  <a href="https://github.com/Sriram943-collab/Power-bi-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sriram943-collab&repo=Power-bi-Project&theme=tokyonight" />
-  </a>
-</p>
+* NLP + LLM-based chatbot
+* Context-aware responses
 
----
+### 🌍 Energy Consumption SQL Analysis
+
+* 100K+ records
+* Advanced SQL insights
+
+### 📊 Bank Customer Segmentation
+
+* Power BI Dashboard
+* 15+ KPIs
 
 ## 🌐 Live Projects
 
 * 🚚 Swiggy Delivery Prediction → https://huggingface.co/spaces/SriRam8765/SwiggyPrediction
 
-
 ---
 
 ## 📊 Impact
 
-✔ Processed 100K+ real-world data records
-✔ Built ML models with R² score of 0.76
-✔ Developed LLM-based intelligent chatbot
-✔ Designed interactive dashboards with 15+ KPIs
-
----
+* ✔ Processed 100K+ real-world data records
+* ✔ Built ML models with R² score of 0.76
+* ✔ Developed LLM-based intelligent chatbot
+* ✔ Designed interactive dashboards with 15+ KPIs
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,sklearn,pandas,numpy,matplotlib,git,github" />
-</p>
+Python | SQL | Power BI | Machine Learning | Deep Learning | TensorFlow | Pandas | NumPy | Matplotlib
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sriram943-collab&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriram943-collab&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sriram943-collab&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sriram943-collab&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sriram943-collab&theme=tokyonight" />
 </p>
 
 ---
@@ -94,20 +84,11 @@
 * 🤖 LLM-powered applications
 * 📊 Real-time analytics dashboards
 
----
 
-## 🐍 Contribution Snake
+## 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sriram943-collab/Sriram943-collab/output/github-contribution-grid-snake.svg" />
-</p>
+📧 [sriramkrishnasagarapu5@gmail.com](mailto:sriramkrishnasagarapu5@gmail.com)
 
 ---
 
-## 🎯 Career Goal
-
-To become a **top AI Engineer** building scalable intelligent systems that impact millions.
-
----
-
-
+⭐ "Turning Data into Insights & Ideas into Reality"
