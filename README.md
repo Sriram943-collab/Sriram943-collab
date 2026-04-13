@@ -8,13 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning+Engineer;AI+Developer;LLM+Builder;Data+Scientist&center=true&width=650&height=50">
 </p>
 
-<p align="center">
-  <a href="mailto:sriramkrishnasagarapu5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Sriram943-collab&label=Profile%20Views&color=blue&style=for-the-badge">
-</p>
-
 ---
 
 ## 🧠 About Me
@@ -88,6 +81,7 @@ Python | SQL | Power BI | Machine Learning | Deep Learning | TensorFlow | Pandas
 ## 🌐 Connect With Me
 
 📧 [sriramkrishnasagarapu5@gmail.com](mailto:sriramkrishnasagarapu5@gmail.com)
+- 💼 LinkedIn: www.linkedin.com/in/sri-ram-krishnasagarapu-760a20239
 
 ---
 
